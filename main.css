@@ -13,6 +13,7 @@ html {
 body {
     margin: 0;
     padding: 20px;
+    background: rgba(255, 255, 255, 1);
 }
 
 main {
